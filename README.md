@@ -1,2 +1,2 @@
 # SeleniumPrj-JUnit
-this file consiste of 
+This file consiste of the JUint program using selenium.
